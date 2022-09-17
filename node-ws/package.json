@@ -1,0 +1,6 @@
+{
+  "name": "node-ws",
+  "workspaces": [
+    "thapo-lib"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "thapo-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.178",
+    "axios": "^0.27.2",
+    "commander": "^9.4.0",
+    "lodash": "^4.17.21"
+  }
+}
